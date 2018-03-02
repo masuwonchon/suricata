@@ -4,7 +4,7 @@ Suricata
 Introduction
 ------------
 
-Suricata is a network IDS, IPS and NSM engine.
+Suricata is a network IDS, IPS and NSM engine for DLP
 
 
 Installation
